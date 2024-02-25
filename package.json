@@ -1,0 +1,19 @@
+{
+  "name": "tea-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asimkovich/tea-asimkovich.git"
+  },
+  "author": "Alex Simkovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asimkovich/tea-asimkovich/issues"
+  },
+  "homepage": "https://github.com/asimkovich/tea-asimkovich#readme"
+}
